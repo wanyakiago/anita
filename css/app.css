@@ -1,0 +1,75 @@
+.header {
+    background: url("../img/landing.jpg");
+    text-align: center;
+    padding: 5em 0;
+}
+.header .lead {
+    padding: 1em 0;
+    color: #fff;
+}
+.food-overviews, .tabs {
+    padding: 5em 0;
+}
+.intro .col-sm-3 {
+    padding: 5em 0;
+}
+.breakfast {
+    background: url('../img/breakfast.jpg');
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+
+.lunch {
+    background: url("../img/dinner2.jpg");
+    text-align: center;
+    font-size: 18px;
+    color: #fff;
+  }
+
+.dinner {
+    background: url("../img/dinner.jpg");
+    text-align: center;
+    font-size: 16px;
+    color: #fff;
+}
+.fast{
+  background-image: url('../img/foodsBg.jpg');
+  font-size: 18px;
+  color: #fff;
+  height: 300px;
+}
+.fast, .tabs {
+  padding: 5em 0;
+}
+.fast .col-sm-3 {
+  padding: 5em 0;
+}
+
+}
+.fast, .tabs {
+  padding: 5em  0;
+}
+
+#subscription {
+  background-image: url('../img/subscribe.jpg');
+  height: 300px;
+  text-align: center;
+  font-size: 18PX;
+  color: #fff;
+}
+
+.footer {
+  background-color: #F15A29;
+  text-align: center;
+  font-size: 20px;
+  color: black;
+
+}
+
+#form{
+  text-align: center;
+}
+.container{
+  text-align: center;
+}
